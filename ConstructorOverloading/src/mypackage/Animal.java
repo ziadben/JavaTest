@@ -13,7 +13,7 @@ public class Animal {
     	}
     
     static String makeRandomName() {
-		 int x = (int)(Math.random()*4);
+		 int x = (int)(Math.random()*5);
 	String name = new String[] {"hai","hoa","wifi","haya","lustig"}[x];
 		return name;
 	}
