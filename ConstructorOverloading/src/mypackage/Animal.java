@@ -14,7 +14,7 @@ public class Animal {
     
     static String makeRandomName() {
 		 int x = (int)(Math.random()*4);
-	String name = new String[] {"hai","hoa","wifi","haya"}[x];
+	String name = new String[] {"hai","hoa","wifi","haya","lustig"}[x];
 		return name;
 	}
 	public static void main(String[] args) {
