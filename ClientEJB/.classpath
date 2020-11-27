@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bankEJB"/>
+	<classpathentry kind="lib" path="C:/Users/CC-Student/Downloads/wildfly-10.1.0.Final/wildfly-10.1.0.Final/bin/client/jboss-client.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
